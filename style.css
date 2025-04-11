@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body and general page layout */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cc3636;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  /* Header styling */
+  header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* Navigation */
+  nav {
+    margin-top: 10px;
+    text-align: center;
+  }
